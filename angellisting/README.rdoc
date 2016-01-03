@@ -1,3 +1,5 @@
 ##AngelListing
 
 This is an experimental project by David Booth, combining the best features of AngelList and Pinterest
+
+By [David Booth](https://angel.co/david)
